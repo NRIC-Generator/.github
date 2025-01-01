@@ -1,5 +1,5 @@
 ## **NRIC Generator: Generate Singapore NRIC Online Free**
-Welcome to the **official GitHub profile** for [NRIC Generator](https://nricgenerator.com/), your one-stop destination for generating and validating Singapore NRIC numbers. Our tools are designed for **testing and development purposes**, offering developers and testers the convenience of generating and validating NRIC numbers online. 🚀
+Welcome to [NRIC Generator](https://nricgenerator.com/), your one-stop destination for generating and validating Singapore NRIC numbers. Our tools are designed for **testing and development purposes**, offering developers and testers the convenience of generating and validating NRIC numbers online. 🚀
 
 With our free and easy-to-use tools, you can save time and streamline your testing process, all while ensuring the utmost accuracy. Whether you need a single NRIC number, validate multiple entries, or generate barcodes, we’ve got you covered!
 
